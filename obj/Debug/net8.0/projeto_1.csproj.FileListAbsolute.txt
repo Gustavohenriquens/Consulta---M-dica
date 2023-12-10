@@ -1,0 +1,14 @@
+D:\Projetos_pequenos_em_C#\projeto_1\bin\Debug\net8.0\projeto_1.exe
+D:\Projetos_pequenos_em_C#\projeto_1\bin\Debug\net8.0\projeto_1.deps.json
+D:\Projetos_pequenos_em_C#\projeto_1\bin\Debug\net8.0\projeto_1.runtimeconfig.json
+D:\Projetos_pequenos_em_C#\projeto_1\bin\Debug\net8.0\projeto_1.dll
+D:\Projetos_pequenos_em_C#\projeto_1\bin\Debug\net8.0\projeto_1.pdb
+D:\Projetos_pequenos_em_C#\projeto_1\obj\Debug\net8.0\projeto_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos_pequenos_em_C#\projeto_1\obj\Debug\net8.0\projeto_1.AssemblyInfoInputs.cache
+D:\Projetos_pequenos_em_C#\projeto_1\obj\Debug\net8.0\projeto_1.AssemblyInfo.cs
+D:\Projetos_pequenos_em_C#\projeto_1\obj\Debug\net8.0\projeto_1.csproj.CoreCompileInputs.cache
+D:\Projetos_pequenos_em_C#\projeto_1\obj\Debug\net8.0\projeto_1.dll
+D:\Projetos_pequenos_em_C#\projeto_1\obj\Debug\net8.0\refint\projeto_1.dll
+D:\Projetos_pequenos_em_C#\projeto_1\obj\Debug\net8.0\projeto_1.pdb
+D:\Projetos_pequenos_em_C#\projeto_1\obj\Debug\net8.0\projeto_1.genruntimeconfig.cache
+D:\Projetos_pequenos_em_C#\projeto_1\obj\Debug\net8.0\ref\projeto_1.dll
