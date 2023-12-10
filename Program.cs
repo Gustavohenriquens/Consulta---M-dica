@@ -1,11 +1,4 @@
-﻿// Cadastro de Alunos : Crie um sistema simples de cadastro de alunos com informações como nome, idade e nota.
-
-// Agendamento de consulta : Agendar, poder remarcar, poder visualiar a consulta e poder cancelar consulta. (Usando o menu interativo ou o Dictionary).
-
-//Simulador de Estoque: Crie um sistema básico de controle de estoque com operações de adicionar e remover itens. (Usando o menu interativo ou o Dictionary).
-
-
-using projeto_1.Models;
+﻿using projeto_1.Models;
 
 
 

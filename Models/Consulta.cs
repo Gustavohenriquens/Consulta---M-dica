@@ -18,9 +18,6 @@
                 Console.WriteLine("Qual o seu Nome :");
                 string nome = Console.ReadLine().ToUpper();
 
-                // Console.WriteLine("Digite sua Idade :");
-                // int idade = Convert.ToInt32(Console.ReadLine().ToUpper());
-
                 Console.WriteLine();
                 Console.WriteLine("Qual Horário você quer marcar para sua consulta ?");
                 string horario = Console.ReadLine().ToUpper();
@@ -113,13 +110,12 @@
             Console.WriteLine("Digite um novo Horário:");
             string novoHorario = Console.ReadLine();
 
-            // Salvar os valores antigos
+
             string horarioAntigo = consulta[nomePaciente];
 
-            // Remover a entrada antiga
+
             consulta.Remove(nomePaciente);
 
-            // Adicionar a nova entrada
             consulta.Add(novoNome, novoHorario);
 
             Console.WriteLine();
